@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\KhanhLinh_Store.Web.CustomerPortal.props" />
+</Project>

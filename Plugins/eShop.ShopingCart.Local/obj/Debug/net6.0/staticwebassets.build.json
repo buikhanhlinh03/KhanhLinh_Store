@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "BVPDvMwaQizLV+vcAxdZdwggJkwNat/tG1jnCyqtRgA=",
+  "Source": "KhanhLinh_Store.ShopingCart.LocalStorage",
+  "BasePath": "_content/KhanhLinh_Store.ShopingCart.LocalStorage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "KhanhLinh_Store.ShopingCart.LocalStorage\\wwwroot",
+      "Source": "KhanhLinh_Store.ShopingCart.LocalStorage",
+      "ContentRoot": "D:\\KhanhLinh_Store\\KhanhLinh_Store\\Plugins\\eShop.ShopingCart.Local\\wwwroot\\",
+      "BasePath": "_content/KhanhLinh_Store.ShopingCart.LocalStorage",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\KhanhLinh_Store\\KhanhLinh_Store\\Plugins\\eShop.ShopingCart.Local\\wwwroot\\background.png",
+      "SourceId": "KhanhLinh_Store.ShopingCart.LocalStorage",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\KhanhLinh_Store\\KhanhLinh_Store\\Plugins\\eShop.ShopingCart.Local\\wwwroot\\",
+      "BasePath": "_content/KhanhLinh_Store.ShopingCart.LocalStorage",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "D:\\KhanhLinh_Store\\KhanhLinh_Store\\Plugins\\eShop.ShopingCart.Local\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "KhanhLinh_Store.ShopingCart.LocalStorage",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\KhanhLinh_Store\\KhanhLinh_Store\\Plugins\\eShop.ShopingCart.Local\\wwwroot\\",
+      "BasePath": "_content/KhanhLinh_Store.ShopingCart.LocalStorage",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

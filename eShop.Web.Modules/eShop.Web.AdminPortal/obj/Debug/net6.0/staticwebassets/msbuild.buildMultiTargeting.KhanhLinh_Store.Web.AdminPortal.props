@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KhanhLinh_Store.Web.AdminPortal.props" />
+</Project>
